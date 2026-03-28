@@ -97,3 +97,4 @@ Developed as a beginner-friendly web project to practice HTML & CSS.
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+Not the wanted project thinking, but definetly something about ai/ml
