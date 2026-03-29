@@ -92,6 +92,7 @@ Menu Page:
 
 Developed as a beginner-friendly web project to practice HTML & CSS.
 Also requires alot of features, stuck and frustated at the code.
+still dont know what to do!!
 
 ---
 
