@@ -96,7 +96,5 @@ still dont know what to do!!
 
 ---
 
-## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
 Not the wanted project thinking, but definetly something about ai/ml
