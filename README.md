@@ -15,7 +15,7 @@ This project showcases a landing page and a menu page with visually appealing fo
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure: for followup
 TAG-Restaurant/
 │
 ├── index.html # Landing page
