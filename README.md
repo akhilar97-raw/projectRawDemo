@@ -84,7 +84,7 @@ Landing Page:
 - Hero background with welcome text
 
 Menu Page:
-- Grid layout with food cards
+- Grid layout with food cards and advancing it in various ways
 
 ---
 
