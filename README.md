@@ -91,7 +91,7 @@ Menu Page:
 ## 🙌 Author
 
 Developed as a beginner-friendly web project to practice HTML & CSS.
-Also requires alot of features, stuck and frustated at the code.
+Also requires alot of features.
 still dont know what to do!!
 
 ---
