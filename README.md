@@ -62,9 +62,9 @@ Each item includes:
 
 ## ▶️ How to Run
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
-3. Click on **"View Menu"** to explore the menu page
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Click on **"View Menu"** to explore the menu page.
 
 ---
 
