@@ -2,7 +2,7 @@
 
 A simple and elegant restaurant website built using **HTML & CSS* and very basic.  
 This project showcases a landing page and a menu page with visually appealing food items.
-
+Need to add css, js and connect database.
 ---
 
 ## 🚀 Features
