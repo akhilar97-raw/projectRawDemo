@@ -9,7 +9,7 @@ Need to add css, js and connect database.
 
 - 🌟 Attractive landing page with background image (radical brown theme)
 - 🍛 Menu page displaying food items with images and descriptions
-- 🎨 Clean UI using pure CSS (no frameworks)
+- 🎨 Clean UI using pure CSS (no frameworks) and normal html
 - 📱 Responsive layout using flexbox
 - 🔗 Navigation between pages
 
