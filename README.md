@@ -6,9 +6,6 @@ Need to add css, js and connect database.
 ---
 
 
-
-
-
 ## 🚀 Features
 
 - 🌟 Attractive landing page with background image (radical brown theme)
